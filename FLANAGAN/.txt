@@ -1,4 +1,4 @@
-Дэвид Флэнаган Java в примерах - справочник
+Р”СЌРІРёРґ Р¤Р»СЌРЅР°РіР°РЅ Java РІ РїСЂРёРјРµСЂР°С… - СЃРїСЂР°РІРѕС‡РЅРёРє
 
 Java Examples in a Nutshell, 3rd Edition
 By David Flanagan
