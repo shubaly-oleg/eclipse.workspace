@@ -1,4 +1,4 @@
-package flanagan;
+package flanagan.JavaBasics;
 
 public class FizzBuzz {
 
