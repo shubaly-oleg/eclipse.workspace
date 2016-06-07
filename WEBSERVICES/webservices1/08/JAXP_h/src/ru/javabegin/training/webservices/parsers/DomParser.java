@@ -43,7 +43,7 @@ public class DomParser {
             }
 
 
-            saveXML("c:\\test\\addDate.xml");
+            saveXML("addDate.xml");
         } catch (ParserConfigurationException | SAXException | IOException e) {
             e.printStackTrace();
         }

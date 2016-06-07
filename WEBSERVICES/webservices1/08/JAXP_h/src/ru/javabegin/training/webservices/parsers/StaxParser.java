@@ -30,7 +30,7 @@ public class StaxParser {
             XMLEventReader reader = inFactory.createXMLEventReader(new FileInputStream(xmlPath));
         
             XMLOutputFactory factory = XMLOutputFactory.newInstance();
-            XMLEventWriter writer = factory.createXMLEventWriter(new FileWriter("c:\\test\\test.xml"));
+            XMLEventWriter writer = factory.createXMLEventWriter(new FileWriter("test.xml"));
             
             XMLEventFactory eventFactory = XMLEventFactory.newInstance();
 
